@@ -1,5 +1,11 @@
 # 👋 Olá! Eu sou Rafael José
 
+<p align="center">
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
+</p>
+
+
 💻 Estudante de Desenvolvimento de Sistemas  
 🎓 Colégio SESI da Indústria + SENAI PR  
 🚀 Interessado em Tecnologia da Informação e programação
@@ -47,15 +53,6 @@ Tenho interesse em programação, desenvolvimento de software e Tecnologia da In
 Tenho desenvolvido projetos durante minha formação em Desenvolvimento de Sistemas, praticando lógica de programação, desenvolvimento web e criação de aplicações.
 
 Confira meus projetos nos repositórios do GitHub.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="180">
-  <img src="./profile/top-langs.svg" height="180">
-</p>
 
 ---
 
