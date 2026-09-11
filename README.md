@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Rafael José
+# Olá! Eu sou Rafael!
 
 <p align="center">
   <img src="./profile/stats.svg" height="180">
