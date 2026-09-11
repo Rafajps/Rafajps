@@ -68,8 +68,6 @@ Busco uma oportunidade na área de Tecnologia da Informação, onde possa desenv
 
 💼 **LinkedIn:** [Meu LinkedIn](http://linkedin.com/in/rafael-jose1)
 
-🐙 **GitHub:** [@Rafajps](https://github.com/Rafajps)
-
 ---
 
 ⭐ Obrigado por visitar meu perfil!
