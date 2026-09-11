@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Rafael!
+# 👋 Olá! Eu sou Rafael José
 
 💻 Estudante de Desenvolvimento de Sistemas  
-🎓 Ensino Médio — Colégio SESI da Indústria  
-🚀 Em busca de oportunidades na área de Tecnologia da Informação
+🎓 Colégio SESI da Indústria + SENAI PR  
+🚀 Interessado em Tecnologia da Informação e programação
 
 ---
 
@@ -10,30 +10,25 @@
 
 Sou estudante de Desenvolvimento de Sistemas no SENAI PR e do Ensino Médio no Colégio SESI da Indústria.
 
-Tenho interesse em Tecnologia da Informação, programação e desenvolvimento de software. 
-Busco sempre aprender novas tecnologias, desenvolver projetos e aprimorar meus conhecimentos.
+Tenho interesse em programação, desenvolvimento de software e Tecnologia da Informação. Atualmente estou estudando diferentes linguagens e criando projetos para colocar meus conhecimentos em prática.
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<div align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
 </div>
-
----
-
-## 🚀 Projetos
-
-### 🎮 Projetos de Desenvolvimento
-Projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas, 
-com foco em programação, lógica e desenvolvimento de software.
-
-🔗 Confira meus projetos nos repositórios abaixo.
 
 ---
 
@@ -47,10 +42,26 @@ com foco em programação, lógica e desenvolvimento de software.
 
 ---
 
+## 🚀 Projetos
+
+Tenho desenvolvido projetos durante minha formação em Desenvolvimento de Sistemas, praticando lógica de programação, desenvolvimento web e criação de aplicações.
+
+Confira meus projetos nos repositórios do GitHub.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180">
+  <img src="./profile/top-langs.svg" height="180">
+</p>
+
+---
+
 ## 🎯 Objetivo
 
-Busco uma oportunidade na área de Tecnologia da Informação, onde possa 
-aplicar meus conhecimentos, aprender com novos desafios e contribuir para a equipe.
+Busco uma oportunidade na área de Tecnologia da Informação, onde possa desenvolver meus conhecimentos, aprender com novos desafios e contribuir para a equipe.
 
 ---
 
@@ -60,12 +71,8 @@ aplicar meus conhecimentos, aprender com novos desafios e contribuir para a equi
 
 💼 **LinkedIn:** [Meu LinkedIn](http://linkedin.com/in/rafael-jose1)
 
+🐙 **GitHub:** [@Rafajps](https://github.com/Rafajps)
+
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
-## 📊 Minhas estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafajps&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafajps&layout=compact&theme=tokyonight)
