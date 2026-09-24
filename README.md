@@ -140,7 +140,7 @@ Repositório utilizado para reunir conteúdos e projetos desenvolvidos durante o
 
 <div align="center">
 
-<img src="./profile/contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="profile/contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
